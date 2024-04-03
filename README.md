@@ -46,7 +46,12 @@
         31.ssl implements integrity
         32.encrption - connversion of simple text to cyfer text(humans cannot understand)
         33. AVAILABILITY-mainatins the availabilty of web servers...
-        
+        34. breach - the loss of control 35.EVENT-any observable occurence in a network or system. NIST SP 800-61 
+        36.EXPLOIT - A particular attack. it is named this way because these attacks exploit system vulnerabilities 
+        37.INCIDENT - Which affect CIA is known as incident 
+        38.Intrusion- security event or combination of events
+        39.THREAD-likelihood athikama irutha risk 
+        40.TOE- Target of evaluation(need the difference ipv 4 and 6)
         
         
         
