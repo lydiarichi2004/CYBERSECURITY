@@ -52,6 +52,10 @@
         38.Intrusion- security event or combination of events
         39.THREAD-likelihood athikama irutha risk 
         40.TOE- Target of evaluation(need the difference ipv 4 and 6)
+        41.cd... for backwarding
+        42.cd...for forwarding
+        43.C:\Users>- called default home directory
+        
         
         
         
