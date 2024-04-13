@@ -49,5 +49,21 @@ incident response team(IRT)
 NIST is a standard its not a government body
 incident means occurence affect CIA
 NIST CYBERSECURITY FRAMEWORK HAS: identify,protect,detect,respond,recover.
+Preventing intrusion is IPS(intrusion prevention system)
+IDS similar to antivirus....just prevent the intrusion
+firewall knows about the packets is called sateful inspection
+firewall doent knows about the packets is called stateless inspection
+microsoft deffender is a aniti malware software
+HIDS - host based intrusion detectiom system
+NIDS- network based intrusion detection system
+MDM(mobile device management....all company have one MDM)
+Anti virus is an end point protection
+Zero trust network access(ZTNA)
+have some knowledge about crptography attcks
+ 
+
+
+
+
 
 
